@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/edmundtck/task-tracker-app/static/css/main.7df55f74.chunk.css",
+    "main.js": "/edmundtck/task-tracker-app/static/js/main.6fcaacb5.chunk.js",
+    "main.js.map": "/edmundtck/task-tracker-app/static/js/main.6fcaacb5.chunk.js.map",
+    "runtime-main.js": "/edmundtck/task-tracker-app/static/js/runtime-main.ca9cc53e.js",
+    "runtime-main.js.map": "/edmundtck/task-tracker-app/static/js/runtime-main.ca9cc53e.js.map",
+    "static/js/2.23c7cd3a.chunk.js": "/edmundtck/task-tracker-app/static/js/2.23c7cd3a.chunk.js",
+    "static/js/2.23c7cd3a.chunk.js.map": "/edmundtck/task-tracker-app/static/js/2.23c7cd3a.chunk.js.map",
+    "index.html": "/edmundtck/task-tracker-app/index.html",
+    "static/css/main.7df55f74.chunk.css.map": "/edmundtck/task-tracker-app/static/css/main.7df55f74.chunk.css.map",
+    "static/js/2.23c7cd3a.chunk.js.LICENSE.txt": "/edmundtck/task-tracker-app/static/js/2.23c7cd3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca9cc53e.js",
+    "static/js/2.23c7cd3a.chunk.js",
+    "static/css/main.7df55f74.chunk.css",
+    "static/js/main.6fcaacb5.chunk.js"
+  ]
+}
