@@ -1,0 +1,14 @@
+.wrapper {
+	max-width: 50rem;
+	margin: 5rem auto;
+	background-color: #f6f5f5;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.btn {
+	font-size: inherit;
+}
+
+h3 {
+	color: #276678;
+}

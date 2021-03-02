@@ -1,0 +1,10 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	padding: 2rem 3rem;
+}
+.logo {
+	font-weight: bold;
+	margin-bottom: 0;
+	color: #276678;
+}

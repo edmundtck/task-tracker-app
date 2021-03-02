@@ -1,0 +1,28 @@
+.task-list {
+	padding: 0 3rem 3rem;
+	display: grid;
+	gap: 1rem;
+}
+
+.task {
+	position: relative;
+	display: grid;
+	padding: 1rem;
+	background: #fff;
+	grid-template-columns: 1fr 7rem;
+}
+
+.task-reminder::before {
+	position: absolute;
+	content: '';
+	top: 0;
+	bottom: 0;
+	width: .5rem;
+	left: -1rem;
+	background-color: #d3e0ea;
+}
+
+.task__action {
+	align-self: center;
+	text-align: center;
+}
