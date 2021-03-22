@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import Toast from './components/Toast';
 
 import formatDate from './helpers/formatDate';
+import sortTasksByDate from './helpers/sortTasksByDate';
 import './App.css';
 
 const today = formatDate(new Date());
@@ -43,7 +44,7 @@ function App() {
 	};
 
 	const addTask = (newTask) => {
-		setTasks([ ...tasks, newTask ]);
+		setTasks(sortTasksByDate([ ...tasks, newTask ]));
 	};
 
 	const deleteTask = (id) => {
